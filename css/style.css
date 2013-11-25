@@ -128,17 +128,21 @@ a img {
 	color: #272727;
 }
 
-#gallery {
-    float: left;
-    width: 400px;
+#main-wrapper {
+    display: block;
+    width: 700px;
+    margin: 20px auto;
 }
 
-.galleria{ width: 700px; height: 400px; width: 600px; background: #000; }
+#video {
+    float: left;
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+}
 
 #description {
-    float: right;
     padding: 20px;
-
 }
 
 .image-style {
