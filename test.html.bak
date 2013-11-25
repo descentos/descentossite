@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<!--
+	Altitude: A responsive HTML5 website template by HTML5Templates.com	Released for free under the Creative Commons Attribution 3.0 license (html5templates.com/license)	Visit http://html5templates.com for more great templates or follow us on Twitter @HTML5T-->
+<html>
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type">
+    <title>Descent|OS: Simple by Design</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <noscript>
+<link rel="stylesheet" href="css/5grid/core.css">
+<link rel="stylesheet" href="css/5grid/core-desktop.css">
+<link rel="stylesheet" href="css/5grid/core-1200px.css">
+<link rel="stylesheet" href="css/5grid/core-noscript.css">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/style-desktop.css">
+</noscript> <script src="css/5grid/jquery.js"></script>
+    <script src="css/5grid/init.js?use=mobile,desktop,1000px&mobileUI=1&mobileUI.theme=none&mobileUI.openerWidth=52"></script>
+    <!--[if IE 9]><link rel="stylesheet" href="css/style-ie9.css" /><![endif]-->
+  </head>
+  <body>
+    <div id="wrapper">
+      <div id="header-wrapper">
+        <header id="header">
+          <div class="5grid-layout">
+            <div id="menu">
+              <nav class="mobileUI-site-nav">
+                <ul>
+                  <li class="active"><a href="index.html">Home</a></li>
+                  <li><a href="about.html">About Descent|OS</a></li>
+                  <li><a href="download.html">Download</a></li>
+                  <li><a href="wiki.html">Documentation</a></li>
+                  <li><a href="community.html">Community</a></li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+          <div id="logo-wrapper">
+            <div class="5grid-layout" id="logo">
+              <div class="row">
+                <div class="12u">
+                  <!-- Logo -->
+                  <div>
+                    <!--<h1><a href="#" class="mobileUI-site-name">Descent OS</a><span class="tagline"> Simple by Design</span></h1> -->
+                    <p style="text-align: center;"> <img src="images/logo.png"
+                        style="text-align: center; width: 500px; height: 223px;">
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </header>
+      </div>
+      <div class="5grid-layout">
+        <div class="row">
+          <div id="home-videocont">
+            <!-- Old Youtube Video
+	<iframe width="528" height="396" src="http://www.youtube.com/embed/LjCN_sbc1t4?wmode=transparent" frameborder="0" wmode="Opaque"></iframe>	Put an image in the poster="" -->
+            <iframe src="//www.youtube.com/embed/pWoo4xv-qoA?rel=0&amp;theme=light&amp;modestbranding=1&amp;wmode=transparent&amp;showinfo=0"
+              allowfullscreen="" frameborder="0" height="396" width="528"></iframe>
+          </div>
+          <div id="home-bannertext">
+            <div id="home-bannertext-center">
+              <h1 class="home-headertext">Luna</h1>
+              <p id="homedescr">The next generation of elementary OS is here.
+                Lightweight and beautiful. All-new apps. A refined look. Name
+                your price or download for free.</p>
+              <div id="home-download"> <input id="home-input-text" value="$10.00"
+                  type="text"> <a href="" id="home-input-submit"><img src="http://elementaryos.org/img/home/dlicon.png"
+                    alt="Download">Download</a> <span><a id="freeDownload" href="#">Download
+                    Luna for free</a></span> </div>
+              <br>
+              <div class="shadow"><a href="#"><img src="css/images/img07.jpg" alt=""
+                    height="50" width="1200"></a></div>
+            </div>
+          </div>
+        </div>
+        <div id="featured-content-wrapper">
+          <div class="12u" id="feature-content">
+            <div class="5grid-layout">
+              <div class="row">
+                <div class="3u">
+                  <section class="first">
+                    <h2>Blandit Veroeros Consequat</h2>
+                    <p>Morbi id urna ut massa vestibulum tempor. faucibus eget
+                      nibh. Pellentesque ultricies felis quis est auctor ut
+                      dictum sapien adipiscing. Quisque eget tempus nunc.
+                      Curabitur venenaSed et gravida diam. Proin adipiscing nisi
+                      ac libero fringilla tincidunt consequat sed amet lorem
+                      ipsum dolor.</p>
+                    <p><a href="#" class="button">Download Now!</a></p>
+                  </section>
+                </div>
+                <div class="3u">
+                  <section>
+                    <h2>Blandit Veroeros Consequat</h2>
+                    <p>Mauris posuere eros vel metus laoreet auctor. In sodales
+                      tincidunt volutpat. Nunc pulvinar massa id risus porta
+                      hendrerit. Nunc nec nibh velit, sit amet consectetur neque
+                      dolor.</p>
+                    <p><a href="#"><img src="images/img09.jpg" alt=""></a></p>
+                  </section>
+                </div>
+                <div class="3u">
+                  <section>
+                    <h2>Blandit Veroeros Consequat</h2>
+                    <p>Mauris posuere eros vel metus laoreet auctor. In sodales
+                      tincidunt volutpat. Nunc pulvinar massa id risus porta
+                      hendrerit. Nunc nec nibh velit, sit amet consectetur neque
+                      dolor.</p>
+                    <p><a href="#"><img src="images/img10.jpg" alt=""></a></p>
+                  </section>
+                </div>
+                <div class="3u">
+                  <section class="last">
+                    <h2>Blandit Veroeros Consequat</h2>
+                    <p>Mauris posuere eros vel metus laoreet auctor. In sodales
+                      tincidunt volutpat. Nunc pulvinar massa id risus porta
+                      hendrerit. Nunc nec nibh velit, sit amet consectetur neque
+                      dolor.</p>
+                    <p><a href="#"><img src="images/img11.jpg" alt=""></a></p>
+                  </section>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="copyright">
+          <p>© Descent|OS 2013 | Images: <a href="http://fotogrph.com/">Fotogrph</a>
+            | Design based on: <a href="http://html5templates.com/">HTML5Templates.com</a></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
